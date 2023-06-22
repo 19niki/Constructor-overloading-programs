@@ -24,7 +24,9 @@ class Car
 void	cardetails()
 	{
 		System.out.println("id:"+id);
+		System.out.println("=============================");
 		System.out.println("name:"+name);
+		System.out.println("=============================");
 		System.out.println("price:"+price);
 		System.out.println("=============================");
 	}
